@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Copyright or takedown request
+    url: https://study.cloudfall.in/contact
+    about: Please send these privately through the contact page, not as a public issue.
+  - name: Share your notes
+    url: https://study.cloudfall.in/contribute
+    about: Upload notes, PYQs or lab files straight on the website.

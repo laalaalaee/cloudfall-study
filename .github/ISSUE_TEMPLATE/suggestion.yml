@@ -1,0 +1,11 @@
+name: Suggest an idea
+description: A feature, a new university, or anything that would make Cloudfall Study better.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+    validations:
+      required: true

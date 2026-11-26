@@ -1,0 +1,19 @@
+name: Report a broken link or wrong file
+description: A page doesn't load, a file is missing, or it's in the wrong subject.
+title: "[Broken] "
+labels: ["bug"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Page link
+      placeholder: https://study.cloudfall.in/...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      placeholder: The file opens a different subject's notes.
+    validations:
+      required: true
