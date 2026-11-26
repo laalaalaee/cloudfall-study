@@ -105,6 +105,29 @@ All schools: **[study.cloudfall.in/amity-gurugram](https://study.cloudfall.in/am
 [ACON: Nursing](https://study.cloudfall.in/amity-gurugram/acon) ·
 [AIBAS: Behavioural Sciences](https://study.cloudfall.in/amity-gurugram/aibas)
 
+### Amity Gurugram subjects
+
+**Information technology (AIIT)**
+[Data Structures through C](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift2301-data-structure-through-c-language-dscl) ·
+[Database Management Systems](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift4303-data-base-management-systems-dbms) ·
+[Operating Systems](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift2314-operating-systems-os) ·
+[Design & Analysis of Algorithms](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift2413-design-analysis-of-algorithms-daa) ·
+[Software Engineering](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift4401-software-engineering-software-engg) ·
+[Computer Graphics](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift4301-computer-graphics-cg) ·
+[Data Communication & Networks](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift4305-data-communication-computer-networks-dccn) ·
+[Internet & Java Programming](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift4402-internet-and-java-programming-ijp) ·
+[PHP & MySQL](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift2402-introduction-to-open-source-technologies-php-mysql) ·
+[Mobile Computing](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ntm4106-mobile-computing-mc) ·
+[Mathematics I](https://study.cloudfall.in/amity-gurugram/aiit/aiit-ift2109-mathematics-i-maths-i)
+
+**Aerospace engineering (ASET)**
+[Aerodynamics I](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2401-aerodynamics-i) ·
+[Aircraft Structures I](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2411-aircraft-structures-i-as-i) ·
+[Propulsion Systems I](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2402-propulsion-systems-i-ps-i) ·
+[Aircraft Design](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2601-aircraft-design-ad) ·
+[Rockets & Missiles](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2803-rockets-missiles-rm) ·
+[Theory of Vibrations](https://study.cloudfall.in/amity-gurugram/aset/aset-ase2801-theory-of-vibrations-tv)
+
 ## NIT Delhi notes and PYQs
 
 [NIT Delhi B.Tech CSE notes, assignments and question papers](https://study.cloudfall.in/nit-delhi/cse)
